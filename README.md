@@ -1,4 +1,4 @@
-# 👨‍🎓 **Student at AIT Pune** 🏫 | 🖥️ **Computer Engineering Major** 💻 | 🎶 **Flute & Guitar Enthusiast** 🎸🎵
+# 👨‍🎓 **Student at AIT Pune** 🏫 | 🖥️ **Computer Engineering Major** 💻 | 
 
 Welcome to my GitHub profile! 🎉
 
