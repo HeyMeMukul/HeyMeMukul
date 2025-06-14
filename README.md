@@ -16,8 +16,3 @@ I’m always open to new opportunities to learn, collaborate, and apply my skill
 
 ---
 
-*Feel free to explore my repositories and check out the projects I’m working on.* 👇
-
-<picture>
- <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
